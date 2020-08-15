@@ -26,7 +26,6 @@ Work Experience: 13+ years.
 * BSc Electrical Engineering from Universidade Federal Teconógica do Paraná ([UTFPR](http://www.utfpr.edu.br/)). 2002-2008.
 
 ### Other profile pages
-* https://github.com/agu3rra
 * https://medium.com/@agu3rra 
 * https://www.linkedin.com/in/agu3rra/
 * https://twitter.com/agu3rra
