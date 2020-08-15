@@ -23,4 +23,4 @@ Work Experience: 13+ years.
 * Spanish: elementary
 
 ### Education
-* BSc Electrical Engineering from Universidade Federal Teconógica do Paraná ([UTFPR](http://www.utfpr.edu.br/)). 2002-2008.
+* BSc Electrical Engineering from Universidade Federal Tecnógica do Paraná ([UTFPR](http://www.utfpr.edu.br/)). 2002-2008.
