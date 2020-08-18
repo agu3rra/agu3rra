@@ -9,13 +9,6 @@ I'm a perpetual learner, passionate about technology, languages and all forms of
 * Container based solutions: Docker, Kubernetes, OpenShift.
 * Applied cryptography: SSL setup and in-app.
 
-Work Experience: 13+ years.
-
-### Travel information:
-* Brazilian passport.
-* USA B1/B2 Visa: valid until APR/2021.
-* Available for international relocation.
-
 ### Spoken Languages
 * Portuguese: native profiency
 * English: fluent
