@@ -17,3 +17,6 @@ I'm a perpetual learner passionate about technology. I've sought to apply progra
 
 ### Education
 * BSc Electrical Engineering from Universidade Federal Tecnógica do Paraná ([UTFPR](http://www.utfpr.edu.br/)). 2002-2008.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agu3rra&show_icons=true&&line_height=40)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agu3rra&show_icons=true)
