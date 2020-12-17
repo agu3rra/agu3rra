@@ -1,5 +1,5 @@
 # About me
-Interested in building a career in the area of software development with a strong focus on security and automation. Solid experience working in a global environment supporting high complexity IT systems.
+Interested in building a career in the area of cyber security with a strong focus on automation. Solid experience working in a global environment supporting high complexity IT systems.
 
 I'm a perpetual learner, passionate about technology and all forms of intelligence. I've sought to apply programming solutions into all work experiences I've had thus far and it is what I like to do best. Python is my primary language of choice and what I like most about it is its huge community and how it allows one to solve problems in a very practical fashion.
 
