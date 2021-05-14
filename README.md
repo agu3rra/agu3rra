@@ -8,6 +8,7 @@ I'm a perpetual learner passionate about technology. I've sought to apply progra
 * Security testing of web based apps (using BURP Suite, scripts and the like).
 * Container based solutions: Docker, Kubernetes, OpenShift.
 * Applied cryptography: SSL setup and in-app.
+* Open-source secrurity and licensing compliance.
 
 ### Spoken Languages
 * Portuguese: native profiency
