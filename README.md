@@ -1,14 +1,14 @@
 # About me
-Interested in building a career in the area of software development with a strong focus on security and automation. Solid experience working in a global environment supporting high complexity IT systems.
+I'm a security engineer, passionate about software development with a strong focus on security and automation. I've solid experience working in global and diverse environments supporting high complexity IT systems.
 
-I'm a perpetual learner passionate about technology. I've sought to apply programming solutions into all work experiences I've had thus far and it is what I like to do best. Python is my primary language of choice and what I like most about it is its huge community and how it allows one to solve problems in a very straightforward fashion.
+I'm a perpetual learner and I've sought to apply programming solutions to all work experiences of mine. Programatically solve problems is what I like to do best. Python is my primary language of choice and I'm a huge fan of its community and how it allows one to solve complex problems in a simple fashion.
 
 ### Key skills:
-* Programming: Python, Flask, Django, Pandas, MongoDB. I've also tasted Swift, Java, Golang and JavaScript. :)
-* Security testing of web based apps (using BURP Suite, scripts and the like).
+* Programming: Python, Flask, Pandas, MongoDB. I've also tasted Swift, Java, Golang and JavaScript. :)
 * Container based solutions: Docker, Kubernetes, OpenShift.
-* Applied cryptography: SSL setup and in-app.
 * Open-source security and licensing compliance.
+* Security testing of web based apps (using [BURP Suite](https://portswigger.net/burp), scripts and the like).
+* Applied cryptography: SSL setup and in-app.
 
 ### Spoken Languages
 * Portuguese: native profiency
