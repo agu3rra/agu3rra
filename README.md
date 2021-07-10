@@ -1,7 +1,7 @@
 # About me
 I'm a security engineer, passionate about software development with a strong focus on security and automation. I've solid experience working in global and diverse environments supporting high complexity IT systems.
 
-I'm a perpetual learner and I've sought to apply programming solutions to all work experiences of mine. Programatically solving problems is what I like to do best. Python is my primary language of choice and I'm a huge fan of its community and how it allows one to solve complex problems in a simple fashion.
+I'm a perpetual learner and I've sought to apply programming solutions to all work experiences of mine. Programmatically solving problems is what I like to do best. Python is my primary language of choice and I'm a huge fan of its community and how it allows one to solve complex problems in a simple fashion.
 
 ### Key skills:
 * Programming: Python, Flask, Pandas, MongoDB. I've also tasted Swift, Java, Golang and JavaScript. :)
