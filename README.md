@@ -6,6 +6,7 @@ Programmatically solving problems is what I like to do best. Python is my primar
 ### Key skills:
 * Programming: Python, Flask, Pandas, MongoDB. I've also tasted Swift, Java, Golang and JavaScript. :)
 * Container based solutions: Docker, Kubernetes, OpenShift.
+* DevOps: setting up pipelines and automating software delivery with a passion for thouroughness and constant improvement beyond security topics.
 * Open-source security and licensing compliance.
 * Security testing of web based apps (using [BURP Suite](https://portswigger.net/burp), scripts and the like).
 * Applied cryptography: SSL setup and in-app.
