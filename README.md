@@ -43,7 +43,7 @@ View them directly [on LinkedIn](https://www.linkedin.com/in/agu3rra/details/rec
 ---
 
 ## Work History
-### [SAP](https://sap.com)
+### [SAP](https://sap.com) (≈2 yrs)
 #### Senior Security Engineer at the SAP Data Intelligence Team
 Oct 2020 - Present  
 
@@ -53,7 +53,7 @@ Develops processes and tools for automation of security and licensing compliance
 ..  
 Develops project Hermes, a Python CLI tool to facilitate CICD build breaks related to security and intellectual property scans along side audit trail generation in a fully automated manner. This is achieved via integration with multiple vendor and proprietary platforms via REST API calls.
 
-### [ExxonMobil](https://exxonmobil.com)
+### [ExxonMobil](https://exxonmobil.com) (2 yrs 8 mos)
 
 #### Back End Developer & Technical Lead at the Software Security Group
 Dec 2019 - Oct 2020 (11 mos)
@@ -65,25 +65,25 @@ Mar 2018 - Dec 2019 (1 yr 10 mos)
 
 Developed a scalable web API to allow integrated security testing of web apps using Python, Flask, MongoDB, containers and Azure. Primary contact for vulnerability scans. Vendor solutions assessment.
 
-### [RGK - Construções, Montagens e Empreendimentos](https://rgk1.com.br)
+### [RGK - Construções, Montagens e Empreendimentos](https://rgk1.com.br) (4 yrs 6 mos)
 #### Electrical Engineer
 Oct 2013 - Mar 2018 (4 yrs 6 mos)
 
 Managed electrical substation implementation projects for the public sector being a liaison with equipment manufacturers. Supported field workers. Provided internal network infrastructure support. Assisted on legal. Managed revenue: US$ 30 million across 30 different projects.
 
-### [ExxonMobil](https://exxonmobil.com)
+### [ExxonMobil](https://exxonmobil.com) (4 yrs 7 mos)
 #### SAP Security Analyst
 Mar 2009 - Sep 2013 (4 yrs 7 mos)
 
 SAP Security consulting. Worldwide operational support. Worked in 3 SAP/R3 upgrade projects supporting around 15.000 users and contributed to the Identity and Access Management project proof of concept using Sailpoint IIQ. Made strong use of automation scripts on maintenance tasks such as id creation and SOX compliance checks.
 
-### [RoqueCorreia Automacao](http://www.roquecorreia.com.br)
+### [RoqueCorreia Automacao](http://www.roquecorreia.com.br) (11 mos)
 #### PLC/SCADA Systems Developer
 Apr 2008 - Feb 2009 (11 mos)
 
 Developed automation systems using industry standard PLC's (GE Fanuc, SIEMENS) for sanitation, energy and automotive applications. Automated documentation of control diagrams in AutoCAD using VBA.
 
-### [GVT - Global Village Telecom](https://www.gvt.com.br)
+### [GVT - Global Village Telecom](https://www.gvt.com.br) (1 yr 11 mos)
 #### Fraud Analyst
 Apr 2007 - Apr 2008 (1 yr 1 mo)
 
