@@ -19,10 +19,10 @@ Software supply chain trust in a decentralized and technology agnostic fashion i
 ## Key skills
 * Programming: [Python](https://www.python.org/) 🐍 (Flask, Pandas), [Rust](https://www.rust-lang.org/) 🦀, MongoDB.
 * Container based solutions: Docker 🐳, [Kubernetes](https://kubernetes.io/).
-* DevOps: setting up pipelines and automating software delivery with a passion for thouroughness and constant improvement.
+* DevOps ⚙️: setting up pipelines and automating software delivery with a passion for thouroughness and constant improvement.
 * Open-source security and licensing compliance.
-* Security testing of web based apps (using [BURP Suite](https://portswigger.net/burp), scripts and the like).
-* Applied cryptography: SSL setup and in-app.
+* Security testing of web based apps (using [BURP Suite](https://portswigger.net/burp), scripts and the like). 🏴‍☠️
+* Applied cryptography 🔐: SSL setup and in-app.
 
 ## Spoken Languages
 * Portuguese 🇧🇷: native profiency
