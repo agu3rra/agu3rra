@@ -7,16 +7,16 @@ Software supply chain trust in a decentralized and technology agnostic fashion i
 
 <!-- TOC depthFrom:2 depthTo:2 -->
 
-- [Key skills](#key-skills)
-- [Spoken Languages](#spoken-languages)
-- [Education](#education)
+- [Key skills 🐍 🦀 🐳](#key-skills-🐍-🦀-🐳)
+- [Spoken Languages 🗣](#spoken-languages-🗣)
+- [Education 🎓](#education-🎓)
 - [GitHub Stats](#github-stats)
-- [Recommendations](#recommendations)
-- [Work History](#work-history)
+- [Recommendations 🫶](#recommendations-🫶)
+- [Work History 💼](#work-history-💼)
 
 <!-- /TOC -->
 
-## Key skills
+## Key skills 🐍 🦀 🐳
 * Programming: [Python](https://www.python.org/) (Flask, Pandas), [Rust](https://www.rust-lang.org/), MongoDB.
 * Container based solutions: Docker, [Kubernetes](https://kubernetes.io/).
 * DevOps: setting up pipelines and automating software delivery with a passion for thouroughness and constant improvement.
@@ -24,25 +24,25 @@ Software supply chain trust in a decentralized and technology agnostic fashion i
 * Security testing of web based apps (using [BURP Suite](https://portswigger.net/burp), scripts and the like).
 * Applied cryptography: SSL setup and in-app.
 
-## Spoken Languages
-* Portuguese: native profiency
-* English: fluent
-* German: elementary
-* Spanish: elementary
+## Spoken Languages 🗣
+* Portuguese 🇧🇷: native profiency
+* English 🇺🇸: fluent
+* German 🇩🇪: elementary
+* Spanish 🇪🇸: elementary
 
-## Education
+## Education 🎓
 * BSc Electrical Engineering from Universidade Federal Tecnógica do Paraná ([UTFPR](http://www.utfpr.edu.br/)). 2002-2008.
 
-## GitHub Stats
+## GitHub Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agu3rra&show_icons=true&&line_height=40)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agu3rra&show_icons=true)
 
-## Recommendations
+## Recommendations 🫶
 View them directly [on LinkedIn](https://www.linkedin.com/in/agu3rra/details/recommendations/?detailScreenTabIndex=0).
 
 ---
 
-## Work History
+## Work History 💼
 ### [SAP](https://sap.com) (≈2 yrs)
 #### Senior Security Engineer at the SAP Data Intelligence Team
 Oct 2020 - Present  
