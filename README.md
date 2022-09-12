@@ -21,7 +21,7 @@ Software supply chain trust in a decentralized and technology agnostic fashion i
 * Container based solutions: Docker, [Kubernetes](https://kubernetes.io/).
 * DevOps: setting up pipelines and automating software delivery with a passion for thouroughness and constant improvement.
 * Open-source security and licensing compliance.
-* Security testing of web based apps (using [BURP Suite](https://portswigger.net/burp), scripts and the like). 🏴‍☠️
+* Security testing of web based apps (using [BURP Suite](https://portswigger.net/burp), scripts and the like).
 * Applied cryptography: SSL setup and in-app.
 
 ## Spoken Languages
