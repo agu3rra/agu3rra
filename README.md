@@ -18,17 +18,17 @@ Software supply chain trust in a decentralized and technology agnostic fashion i
 
 ## Key skills
 * Programming: [Python](https://www.python.org/) 🐍 (Flask, Pandas), [Rust](https://www.rust-lang.org/) 🦀, MongoDB.
-* Container based solutions: Docker 🐳, [Kubernetes](https://kubernetes.io/).
-* DevOps ⚙️: setting up pipelines and automating software delivery with a passion for thouroughness and constant improvement.
+* Container based solutions: Docker, [Kubernetes](https://kubernetes.io/).
+* DevOps: setting up pipelines and automating software delivery with a passion for thouroughness and constant improvement.
 * Open-source security and licensing compliance.
 * Security testing of web based apps (using [BURP Suite](https://portswigger.net/burp), scripts and the like). 🏴‍☠️
-* Applied cryptography 🔐: SSL setup and in-app.
+* Applied cryptography: SSL setup and in-app.
 
 ## Spoken Languages
-* Portuguese 🇧🇷: native profiency
-* English 🇺🇸: fluent
-* German 🇩🇪: elementary
-* Spanish 🇪🇸: elementary
+* 🇧🇷 Portuguese: native profiency
+* 🇺🇸 English: fluent
+* 🇩🇪 German: elementary
+* 🇪🇸 Spanish: elementary
 
 ## Education
 * 🎓 BSc Electrical Engineering from Universidade Federal Tecnógica do Paraná ([UTFPR](http://www.utfpr.edu.br/)). 2002-2008.
@@ -38,7 +38,7 @@ Software supply chain trust in a decentralized and technology agnostic fashion i
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agu3rra&show_icons=true)
 
 ## Recommendations
-View them directly [on LinkedIn](https://www.linkedin.com/in/agu3rra/details/recommendations/?detailScreenTabIndex=0). 🫶
+View them directly [on LinkedIn](https://www.linkedin.com/in/agu3rra/details/recommendations/?detailScreenTabIndex=0).
 
 ---
 
