@@ -47,9 +47,17 @@ Oct 2020 - Present
 
 [Certified Security Expert](certifications/SAPSecurityExpertCurriculum2022.pdf) as part of SAP's one year curriculum on secure software development (JUN/2022).  
 ..  
-Develops processes and tools for automation of security and licensing compliance. Provides security related guidance and pull requests to development teams of SAP Data Intelligence.  
+Develops processes and tools for automation of security and licensing compliance. Provides security related guidance and pull requests (related to security and CICD setup) to development teams of SAP Data Intelligence.  
 ..  
-Develops project Hermes, a Python CLI tool to facilitate CICD build breaks related to security and intellectual property scans along side audit trail generation in a fully automated manner. This is achieved via integration with multiple vendor and proprietary platforms via REST API calls.
+**Develops CICD friendly CLI tools** (in *Rust* and *Python*) to complement functionality of internal and vendor tools used in secure software development. These are placed at SAP's inner sourcing program to stimulate collaboration across different product areas.  
+..  
+Owns **change management process** of the SAP Datasphere product (especifically the Data Intelligence portion). This involves centrally documenting the process from code change to product deployment and sharing it with development and management teams with the goal to help them get a **holistic view of the development/deployment cycle**. In addition, also responds to audit inquiries (internal and external).  
+..  
+Develops project **Nimbus**, a **Python CLI** tool meant to be used both locally and on CICD pipelines to further extend functionality of project Hermes and provide robustness and tolerance factor to releasing pipelines while recognizing **compliance scans** related to different subject areas can be **produced asynchronously**. The main goal is to provide development teams with a safe and secure development environment in a way that doesn't impact productivity and also recognizes the needs for **rule customization** on different teams and code bases.  
+..  
+**Provides training** to SAP's 1 year security curriculum (Seculum) in the area of **security tools for open-source, SAST and manual testing** (e.g.: Whitesource, Blackduck, Fortify, Checkmarx, Portswigger BURP, OWASP ZAP, etc).  
+..  
+Develops **project Hermes**, a **Python CLI tool** to facilitate CICD **build breaks related to security and intellectual property scans** along side audit trail generation in a fully automated manner. This is achieved via integration with multiple vendor and proprietary platforms via REST API calls.  
 
 ### [ExxonMobil](https://exxonmobil.com) (2 yrs 8 mos)
 
