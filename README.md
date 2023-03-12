@@ -41,7 +41,7 @@ View them directly [on LinkedIn](https://www.linkedin.com/in/agu3rra/details/rec
 ---
 
 ## Work History
-### [SAP](https://sap.com) (≈2 yrs)
+### [SAP](https://sap.com) (≈2 yrs 4 mos)
 #### Senior Security Engineer at the SAP Data Intelligence Team
 Oct 2020 - Present  
 
