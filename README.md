@@ -45,19 +45,15 @@ View them directly [on LinkedIn](https://www.linkedin.com/in/agu3rra/details/rec
 #### Senior Security Engineer at the SAP Data Intelligence Team
 Oct 2020 - Present  
 
-[Certified Security Expert](certifications/SAPSecurityExpertCurriculum2022.pdf) as part of SAP's one year curriculum on secure software development (JUN/2022).  
+**[Certified Security Expert](certifications/SAPSecurityExpertCurriculum2022.pdf)** as part of SAP's one year curriculum on secure software development (JUN/2022).  
 ..  
-Develops processes and tools for automation of security and licensing compliance. Provides security related guidance and pull requests (related to security and CICD setup) to development teams of SAP Data Intelligence.  
+Provides guidance and pull requests to development teams of SAP Data Intelligence in the area of **automated security testing**.  
 ..  
-**Develops CICD friendly CLI tools** (in *Rust* and *Python*) to complement functionality of internal and vendor tools used in secure software development. These are placed at SAP's inner sourcing program to stimulate collaboration across different product areas.  
+**Develops CICD friendly CLI tools** (in *Rust* and *Python*) to complement functionality of internal and vendor tools used in security and intellectual property scans while facilitating pipeline breaks when issues occur. These are placed at SAP's inner sourcing program to stimulate collaboration across different product areas.  
 ..  
-Owns **change management process** of the SAP Datasphere product (specifically the Data Intelligence portion). This involves centrally documenting the process from code change to product deployment and sharing it with development and management teams with the goal to provide **holistic view of the development/deployment cycle**. In addition, also responds to audit inquiries (internal and external).  
+Owns **change management process** of the SAP Datasphere product (specifically the Data Intelligence portion). This involves centrally documenting the process from code change to product deployment and sharing it with development and management teams with the goal to provide a **holistic view of the development/deployment cycle**.  
 ..  
-Develops project **Nimbus**, a **Python CLI** tool meant to be used both locally and on CICD pipelines to provide robustness in software release pipelines while recognizing **compliance scans** related to different subject areas can be **produced asynchronously**. The main goal is to provide development teams with a safe and secure development environment in a way that doesn't impact productivity and also recognizes **customization** needs on different teams and code bases.  
-..  
-**Provides training** to SAP's 1 year security curriculum (Seculum) in the area of **security tools for open-source, SAST and manual testing** (e.g.: Whitesource, Blackduck, Fortify, Checkmarx, Portswigger BURP, OWASP ZAP, etc).  
-..  
-Develops **project Hermes**, a **Python CLI tool** to facilitate CICD **build breaks related to security and intellectual property scans** along side audit trail generation in a fully automated manner. This is achieved via integration with multiple vendor and proprietary platforms via REST API calls.  
+**Provides training** to SAP's 1 year security curriculum (Seculum) in the area of **security tools for open-source, SAST and manual testing** (e.g.: Whitesource, Blackduck, Fortify, Checkmarx, Portswigger BURP, OWASP ZAP, etc).
 
 ### [ExxonMobil](https://exxonmobil.com) (2 yrs 8 mos)
 
