@@ -53,7 +53,7 @@ Develops processes and tools for automation of security and licensing compliance
 ..  
 Owns **change management process** of the SAP Datasphere product (specifically the Data Intelligence portion). This involves centrally documenting the process from code change to product deployment and sharing it with development and management teams with the goal to help them get a **holistic view of the development/deployment cycle**. In addition, also responds to audit inquiries (internal and external).  
 ..  
-Develops project **Nimbus**, a **Python CLI** tool meant to be used both locally and on CICD pipelines to provide robustness in software release pipelines while recognizing **compliance scans** related to different subject areas can be **produced asynchronously**. The main goal is to provide development teams with a safe and secure development environment in a way that doesn't impact productivity and also recognizes the needs for **rule customization** on different teams and code bases.  
+Develops project **Nimbus**, a **Python CLI** tool meant to be used both locally and on CICD pipelines to provide robustness in software release pipelines while recognizing **compliance scans** related to different subject areas can be **produced asynchronously**. The main goal is to provide development teams with a safe and secure development environment in a way that doesn't impact productivity and also recognizes **customization** needs on different teams and code bases.  
 ..  
 **Provides training** to SAP's 1 year security curriculum (Seculum) in the area of **security tools for open-source, SAST and manual testing** (e.g.: Whitesource, Blackduck, Fortify, Checkmarx, Portswigger BURP, OWASP ZAP, etc).  
 ..  
