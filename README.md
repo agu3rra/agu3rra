@@ -51,7 +51,7 @@ Provides guidance and pull requests to development teams of SAP Data Intelligenc
 ..  
 **Develops CICD friendly CLI tools** (in *Rust* and *Python*) to complement functionality of internal and vendor tools used in security and intellectual property scans while facilitating pipeline breaks when issues occur. These are placed at SAP's inner sourcing program to stimulate collaboration across different product areas.  
 ..  
-Owns **change management process** of the SAP Datasphere product (specifically the Data Intelligence portion). This involves centrally documenting the process from code change to product deployment and sharing it with development and management teams with the goal to provide a **holistic view of the development/deployment cycle**.  
+Owns **change management process** of the SAP Datasphere product (specifically the Data Intelligence portion). This involves documenting the process from code change to product deployment and sharing it with development and management teams with the goal to provide a **holistic view of the development/deployment cycle**.  
 ..  
 **Provides training** to SAP's 1 year security curriculum (Seculum) in the area of **security tools for open-source, SAST and manual testing** (e.g.: Whitesource, Blackduck, Fortify, Checkmarx, Portswigger BURP, OWASP ZAP, etc).
 
