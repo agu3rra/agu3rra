@@ -53,7 +53,7 @@ Provides guidance and pull requests to development teams of SAP Data Intelligenc
 ..  
 Owns **change management process** of the SAP Datasphere product (specifically the Data Intelligence portion). This involves documenting the process from code change to product deployment and sharing it with development and management teams with the goal to provide a **holistic view of the development/deployment cycle**.  
 ..  
-**Provides training** to SAP's 1 year security curriculum (Seculum) in the area of **security tools for open-source, SAST and manual testing** (e.g.: Whitesource, Blackduck, Fortify, Checkmarx, Portswigger BURP, OWASP ZAP, etc).
+**Provides training** to SAP's security curriculum (Seculum) in the area of **security tools for open-source, SAST and manual testing** (e.g.: Whitesource, Blackduck, Fortify, Checkmarx, Portswigger BURP, OWASP ZAP, etc).
 
 ### [ExxonMobil](https://exxonmobil.com) (2 yrs 8 mos)
 
