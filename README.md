@@ -45,7 +45,7 @@ View them directly [on LinkedIn](https://www.linkedin.com/in/agu3rra/details/rec
 #### Security Lead at the SAP Big Data Fabric Services Team
 Apr 2023 - Present
 
-Collaborates with a team of security experts on the elaboration and execution of the security strategy of Big Data Fabric Services, a cloud-native, Kubernetes-based, software solution providing Apache Spark as a Service for SAP’s internal Lines of Business (”Big Data without the swearing”).  
+Collaborates with a team of security experts on the elaboration and execution of the security strategy of Big Data Fabric Services, a Kubernetes-based software solution providing Apache Spark as a Service for SAP’s internal Lines of Business (”Big Data without the swearing”).  
 ..  
 Reports on security-related topics (threat modeling, incidents, vulnerability patches, scans, pen-testing, etc.) to the management team.
 
