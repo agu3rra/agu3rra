@@ -8,3 +8,10 @@ I also enjoy working with **Golang** for its simplicity and ease of deployment a
 
 ## Recommendations & Work History
 View them directly [on LinkedIn](https://www.linkedin.com/in/agu3rra).
+
+## Spoken Languages
+
+- 🇧🇷 Portuguese: Native
+- 🇬🇧 English: Proficient
+- 🇪🇸 Spanish: Basic
+- 🇩🇪 German: Basic
