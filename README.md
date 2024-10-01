@@ -14,5 +14,11 @@ If you found anything useful that I created and wish to contribute, consider:
 
 <a href="https://www.buymeacoffee.com/agu3rra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 120px !important;" ></a>
 
-## Top Languages
+## Spoken Languages
+- 🇧🇷 Brazilian Portuguese: native
+- 🇺🇸 English: fluent
+- 🇪🇸 Spanish: intermediate
+- 🇩🇪 German: basic
+
+## Top Programming Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agu3rra&layout=compact)
