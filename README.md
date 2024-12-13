@@ -12,7 +12,9 @@ View them directly [on LinkedIn](https://www.linkedin.com/in/agu3rra).
 ## Sponsorship
 If I helped you in a way you feel deserves a contribution, consider either *"buying me a coffee"* or sponsoring me here on Github.
 
-<a href="https://www.buymeacoffee.com/agu3rra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 120px !important;" ></a>
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-red?logo=github&style=social)](https://github.com/sponsors/agu3rra)
+
+<a href="https://www.buymeacoffee.com/agu3rra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 130px !important;" ></a>
 
 ## Spoken Languages
 - 🇧🇷 Brazilian Portuguese: native
