@@ -18,7 +18,7 @@ If I helped you in a way you feel deserves a contribution, consider either *"buy
 
 ## Spoken Languages
 - 🇧🇷 Brazilian Portuguese: native
-- 🇺🇸 English: fluent
+- 🇬🇧 English: fluent
 - 🇪🇸 Spanish: intermediate
 - 🇩🇪 German: basic
 
