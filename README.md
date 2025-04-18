@@ -9,8 +9,6 @@ I also enjoy working with **Golang** for its simplicity and ease of deployment a
 ## Recommendations & Work History
 View them directly [on LinkedIn](https://www.linkedin.com/in/agu3rra).
 
-<a href="https://www.buymeacoffee.com/agu3rra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 130px !important;" ></a>
-
 ## Spoken Languages
 - 🇧🇷 Brazilian Portuguese: native
 - 🇬🇧 English: fluent
