@@ -15,5 +15,3 @@ View them directly [on LinkedIn](https://www.linkedin.com/in/agu3rra).
 - 🇪🇸 Spanish: intermediate
 - 🇩🇪 German: basic
 
-## Top Programming Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agu3rra&layout=compact)
