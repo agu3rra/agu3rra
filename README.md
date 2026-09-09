@@ -1,5 +1,5 @@
 # About me
-Programmatically solving real world problems is what I like to do best. I create software, and infrastructure as code, with a strong focus on security and automation.
+Programmatically solving real world problems is what I like to do best. I build software and infrastructure as code, with a strong focus on security and automation.
 
 **Python** 🐍 is my primary language of choice, and I'm a fan of its community and how it allows one to solve complex problems quickly.
 
