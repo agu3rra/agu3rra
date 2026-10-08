@@ -13,7 +13,3 @@ View them directly [on LinkedIn](https://www.linkedin.com/in/agu3rra).
 - 🇬🇧 English: fluent
 - 🇪🇸 Spanish: intermediate
 - 🇩🇪 German: basic
-
-## Graphs
-Yes, I love graphs and I build them in my head, my [Neo4j](https://neo4j.com/)s, and of course my [Obsidian](https://obsidian.md) vault.
-![pepe-silva](./img/agu3rra-pepe-silva.png)
